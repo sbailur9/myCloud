@@ -6,7 +6,7 @@ This sample code helps get you started with a simple Go web application deployed
 What's Here
 -----------
 
-This sample includes:
+This sample include
 
 * README.md - this file
 * buildspec.yml - this file is used by AWS CodeBuild to package your
